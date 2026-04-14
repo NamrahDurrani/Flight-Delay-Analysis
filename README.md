@@ -1,10 +1,5 @@
-# Flight-Delay-Analysis
+# ✈️ Flight-Delay-Analysis
 Predicting how many minutes a flight will be delayed using machine learning regression models and a neural network.
-# ✈️ Flight Delay Prediction — Regression
-
-> Predicting **how many minutes** a flight will be delayed using machine learning regression models and a neural network.
-
----
 
 ## Dataset
 
